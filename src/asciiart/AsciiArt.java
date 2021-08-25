@@ -17,16 +17,26 @@ public class AsciiArt {
     public static void main(String[] args) {
         // TODO code application logic here
    
+      // ASCII Art Crow From Mystery Science theater
+        
+        
+        
+        
     System.out.println("     ,      ,    ");
     System.out.println("    (\\_____/)    ");
     System.out.println("      (_00_)   ");
     System.out.println("        (0)      ");
+  // Head
+    
+    
     System.out.println("      __| |__   \\)");
     System.out.println("   []/_______\\[]/ ");
     System.out.println("   / \\______/ \\/");
+  //Body
+    
     System.out.println("  /    /__\\   ");
     System.out.println(" (\\   /____\\  ");
-   
+   //Legs
     
     }
     
