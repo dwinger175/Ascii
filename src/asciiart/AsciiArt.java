@@ -22,21 +22,21 @@ public class AsciiArt {
         
         
         
-    System.out.println("     ,      ,    ");
+    System.out.println("     ,      ,    git    ");
     System.out.println("    (\\_____/)    ");
     System.out.println("      (_00_)   ");
     System.out.println("        (0)      ");
-  // Head
+  // Head Picture
     
     
     System.out.println("      __| |__   \\)");
     System.out.println("   []/_______\\[]/ ");
     System.out.println("   / \\______/ \\/");
-  //Body
+  //Body Picture
     
     System.out.println("  /    /__\\   ");
     System.out.println(" (\\   /____\\  ");
-   //Legs
+   //Legs  Picture
     
     }
     
